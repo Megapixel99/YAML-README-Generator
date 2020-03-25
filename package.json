@@ -1,0 +1,27 @@
+{
+  "name": "yaml-readme",
+  "version": "1.0.0",
+  "description": "Create part of the README from the YAML file(s)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Seth Wheeler",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megapixel99/YAML-README-Generator.git"
+  },
+  "keywords": [
+    "yaml",
+    "readme"
+  ],
+  "bugs": {
+    "url": "https://github.com/Megapixel99/YAML-README-Generator/issues"
+  },
+  "homepage": "https://github.com/Megapixel99/YAML-README-Generator#readme"
+}
